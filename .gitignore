@@ -1,0 +1,36 @@
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Configuration (contains credentials — use templates in config-templates/)
+appsettings.json
+appsettings.*.json
+!config-templates/appsettings.template.json
+nlog.config
+!config-templates/nlog.template.config
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Export output (don't commit archived course data)
+*.imscc
+*.xlsx

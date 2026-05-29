@@ -1,6 +1,6 @@
 # Canvas LMS Course Data Archival Framework
 
-An open-source framework for automated, unattended archival of Canvas LMS course data. Built and tested in production at Regent University.
+An open-source framework for automated, unattended archival of Canvas LMS course data. Built and tested in production at Regent University. 
 
 ## What This Does
 

@@ -6,6 +6,9 @@
 - Quiz attempt extraction (individual student answers per attempt)
 - Course restoration testing (IMSCC round-trip import)
 
+## [2.0.0] — 2026-11
+- Updated .Net to v10
+
 ## [1.0.0] — 2026-05
 
 ### Course Content Exporter

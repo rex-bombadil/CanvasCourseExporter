@@ -42,7 +42,7 @@ src/CanvasCourseExporter/
 
 ## Prerequisites
 
-- **.NET 8 SDK** (cross-platform — Windows, Linux, macOS)
+- **.NET 10 SDK** (cross-platform — Windows, Linux, macOS)
 - **Canvas API token** with scopes for content export and file access
 - **Canvas Data 2 subscription** with tables loaded into SQL Server
 - **Operational database** for export tracking/scheduling — Regent uses Oracle; any RDBMS works (see [Adaptation Guide](docs/adaptation-guide.md))
